@@ -1,3 +1,6 @@
+.DS_Store
+src/dist/bundle.js
+
 # Logs
 logs
 *.log
